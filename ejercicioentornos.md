@@ -78,6 +78,7 @@ System.out.println ("Esto es un snippets a lo casual");
 
 #### Tablas
 |Nombres      | Edad        | Calificaciones|
+|-------------|-------------|---------------|
 | José        |   23        |         7,8   |
 | Miguel      |   21        |          9,9  |
 
