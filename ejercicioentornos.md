@@ -65,11 +65,11 @@ System.out.println ("Esto es un snippets a lo casual");
 ---
 
 #### Enlaces
-[enlace externo](https://www.markdownguide.org/getting-started/) [título] [# indice]
+[enlace externo] (https://www.markdownguide.org/getting-started/) [título] [# indice]
 
 
 #### Imagenes
-![foto del logo de la web](https://th.bing.com/th/id/OIP.u_BVa-CKyRuG_R9OHlq_QwHaEo?rs=1&pid=ImgDetMain)
+![foto del logo de la web] (https://th.bing.com/th/id/OIP.u_BVa-CKyRuG_R9OHlq_QwHaEo?rs=1&pid=ImgDetMain)
 
 ##### Foto Local
 ![foto de el equipo] (./princesita.jpg)
