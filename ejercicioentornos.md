@@ -1,4 +1,4 @@
-#Indíce
+#Índice
 
 1. Encabezados
 2. Cambios tipográficos
@@ -53,7 +53,7 @@ cursiva
 2. Segundo elemento
 3. Tercer elemento
 
-###Snippets de código y citas
+### Snippets de código y citas
 
 ```java
 System.out.println ("Esto es un snippets a lo casual");
