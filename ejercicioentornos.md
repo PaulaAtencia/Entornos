@@ -15,7 +15,7 @@
 13. Fórmulas Matemáticas 
 ---
 
-##Encabezados
+## Encabezados
 
 # titulo nivel 1
 
