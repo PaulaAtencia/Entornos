@@ -98,9 +98,9 @@ paula
 - [ ] Tampoco es activado
 
 #### Emoji
-:joy: 
-:star:
-:sunglasses:
+carita sonriente :joy: 
+estrella :star:
+emoji con gafas :sunglasses:
 
 #### Referencias 
 Este es un texto con una referencia [^1].
