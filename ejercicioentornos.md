@@ -109,4 +109,4 @@ Este es un texto con una referencia [^1].
  ## Fórmulas Matemáticas:
 
  La fórmula de 2 grado es:
- $(-b ± √ (b^2 – 4ac)) / (2a)$
+ $-b ±\sqrt{b^2 – 4ac}/2a$
