@@ -30,7 +30,7 @@
 ## Cambios tipográficos
 
 _negrita_
-cursiva
+*cursiva*
 **_negrita y cursiva_**
 ~~Tachado~~
 <mark>Remarcado</mark>
