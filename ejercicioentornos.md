@@ -1,4 +1,4 @@
-# indice
+# Índice
 
 1. Encabezados
 2. Cambios tipográficos
