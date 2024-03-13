@@ -65,8 +65,7 @@ System.out.println ("Esto es un snippets a lo casual");
 ---
 
 #### Enlaces
-[enlace externo](https://www.markdownguide.org/getting-started/) [titulo] [# indice]
-
+[enlace externo](https://www.markdownguide.org/getting-started/)
 
 #### Imagenes
 ![foto del logo de la web](https://th.bing.com/th/id/OIP.u_BVa-CKyRuG_R9OHlq_QwHaEo?rs=1&pid=ImgDetMain)
