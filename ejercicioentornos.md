@@ -42,7 +42,7 @@ _negrita_
 - Elemento 1
   - Subelemento 1.0
 - Elemento 2
-  -Subelemento 2.1
+  - Subelemento 2.1
 - Elemento 3
 
 ### Ordenadas
@@ -71,9 +71,9 @@ System.out.println ("Esto es un snippets a lo casual");
 ![foto del logo de la web](https://th.bing.com/th/id/OIP.u_BVa-CKyRuG_R9OHlq_QwHaEo?rs=1&pid=ImgDetMain)
 
 ##### Foto Local
-![foto de el equipo] (./princesita.jpg)
+![foto de el equipo](./princesita.jpg)
 ## Citas
-| Esto se supone que es una cita
+> Esto se supone que es una cita
 
 
 #### Tablas
