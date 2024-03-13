@@ -62,7 +62,7 @@ System.out.println ("Esto es un snippets a lo casual");
     <h1>Página web</h1>
     <p>Esto es otro tipo de snippets</p>
 </div>
----
+```
 
 #### Enlaces
 [enlace externo](https://www.markdownguide.org/getting-started/)
@@ -89,7 +89,7 @@ System.out.println ("Esto es un snippets a lo casual");
 -----------
 
 #### Salto de linea 
-me llamo 
+me llamo  
 paula
 
 #### Lista de tareas 
