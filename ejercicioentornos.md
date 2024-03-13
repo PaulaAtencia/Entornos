@@ -1,4 +1,4 @@
-#Índice
+# indice
 
 1. Encabezados
 2. Cambios tipográficos
@@ -65,7 +65,7 @@ System.out.println ("Esto es un snippets a lo casual");
 ---
 
 #### Enlaces
-[enlace externo] (https://www.markdownguide.org/getting-started/) [título] [#indice]
+[enlace externo] (https://www.markdownguide.org/getting-started/) [título] [# indice]
 
 
 #### Imagenes
